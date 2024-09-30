@@ -1,0 +1,16 @@
+D:\C#\FormDinhDang\FormDinhDang\bin\Debug\net8.0-windows\FormDinhDang.exe
+D:\C#\FormDinhDang\FormDinhDang\bin\Debug\net8.0-windows\FormDinhDang.deps.json
+D:\C#\FormDinhDang\FormDinhDang\bin\Debug\net8.0-windows\FormDinhDang.runtimeconfig.json
+D:\C#\FormDinhDang\FormDinhDang\bin\Debug\net8.0-windows\FormDinhDang.dll
+D:\C#\FormDinhDang\FormDinhDang\bin\Debug\net8.0-windows\FormDinhDang.pdb
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.Form1.resources
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.csproj.GenerateResource.cache
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.AssemblyInfoInputs.cache
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.AssemblyInfo.cs
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.csproj.CoreCompileInputs.cache
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.dll
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\refint\FormDinhDang.dll
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.pdb
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\FormDinhDang.genruntimeconfig.cache
+D:\C#\FormDinhDang\FormDinhDang\obj\Debug\net8.0-windows\ref\FormDinhDang.dll

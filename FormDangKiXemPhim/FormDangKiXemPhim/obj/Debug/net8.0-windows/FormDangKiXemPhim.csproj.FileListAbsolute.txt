@@ -1,0 +1,34 @@
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.exe
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.deps.json
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.runtimeconfig.json
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.dll
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.pdb
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.Form1.resources
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.dll
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\refint\FormDangKiXemPhim.dll
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.pdb
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.genruntimeconfig.cache
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\ref\FormDangKiXemPhim.dll
+C:\Users\Admin\source\repos\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.Properties.Resources.resources
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.exe
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.deps.json
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.runtimeconfig.json
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.dll
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\bin\Debug\net8.0-windows\FormDangKiXemPhim.pdb
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.Form1.resources
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.Properties.Resources.resources
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.csproj.GenerateResource.cache
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.AssemblyInfoInputs.cache
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.AssemblyInfo.cs
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.csproj.CoreCompileInputs.cache
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.dll
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\refint\FormDangKiXemPhim.dll
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.pdb
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\FormDangKiXemPhim.genruntimeconfig.cache
+D:\C#\Window Forms\FormDangKiXemPhim\FormDangKiXemPhim\obj\Debug\net8.0-windows\ref\FormDangKiXemPhim.dll

@@ -1,0 +1,16 @@
+D:\C#\FormPhepTinh\FormPhepTinh\bin\Debug\net8.0-windows\FormPhepTinh.exe
+D:\C#\FormPhepTinh\FormPhepTinh\bin\Debug\net8.0-windows\FormPhepTinh.deps.json
+D:\C#\FormPhepTinh\FormPhepTinh\bin\Debug\net8.0-windows\FormPhepTinh.runtimeconfig.json
+D:\C#\FormPhepTinh\FormPhepTinh\bin\Debug\net8.0-windows\FormPhepTinh.dll
+D:\C#\FormPhepTinh\FormPhepTinh\bin\Debug\net8.0-windows\FormPhepTinh.pdb
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.Form1.resources
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.csproj.GenerateResource.cache
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.AssemblyInfoInputs.cache
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.AssemblyInfo.cs
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.csproj.CoreCompileInputs.cache
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.dll
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\refint\FormPhepTinh.dll
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.pdb
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\FormPhepTinh.genruntimeconfig.cache
+D:\C#\FormPhepTinh\FormPhepTinh\obj\Debug\net8.0-windows\ref\FormPhepTinh.dll
